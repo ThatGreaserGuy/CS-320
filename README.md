@@ -34,8 +34,8 @@ PROJECT 1:
   - Milestone 3 .java classes
   
   Amalgamation of milestones achieved in the course, implementing feedback given 
-  by the professor.  Purpose is to further implement JUnit 5 testing for develop
-  ment of a fictional mobile application that utilizes all three services.
+  by the professor.  Purpose is to further implement JUnit 5 testing for 
+  development of a fictional mobile application that utilizes all three services.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 PROJECT 2:
   //insert information here once project 2 is completed
