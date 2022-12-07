@@ -37,7 +37,7 @@ PROJECT 1:
   by the professor.  Purpose is to further implement JUnit 5 testing for 
   development of a fictional mobile application that utilizes all three services.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-PROJECT 2:
+PROJECT 2:\n
   Summary of work done for the milestone assignments and reflection on importance
   of quality of code, minimizing bias, and testing, testing, testing.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
