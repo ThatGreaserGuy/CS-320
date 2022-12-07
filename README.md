@@ -38,5 +38,6 @@ PROJECT 1:
   development of a fictional mobile application that utilizes all three services.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 PROJECT 2:
-  //insert information here once project 2 is completed
+  Summary of work done for the milestone assignments and reflection on importance
+  of quality of code, minimizing bias, and testing, testing, testing.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
